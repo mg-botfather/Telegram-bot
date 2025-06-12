@@ -1,0 +1,5 @@
+import os
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+NETLIFY_TOKEN = os.getenv("NETLIFY_TOKEN")
+SERPAPI_KEY = os.getenv("SERPAPI_KEY")
